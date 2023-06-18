@@ -23,7 +23,7 @@ This app  uses the follong technologies:
 
 ## Running the demo
 
-To run the demo follow these steps:
+To run the demo follow these steps :
 
 1. Clone the project with the code below.
     ```sh
